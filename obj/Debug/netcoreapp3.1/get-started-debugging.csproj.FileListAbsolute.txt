@@ -1,0 +1,14 @@
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.exe
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.deps.json
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.runtimeconfig.json
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.runtimeconfig.dev.json
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.dll
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\bin\Debug\netcoreapp3.1\get-started-debugging.pdb
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.csproj.AssemblyReference.cache
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.AssemblyInfoInputs.cache
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.AssemblyInfo.cs
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.dll
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.pdb
+C:\Users\Alberto\Desktop\1ºDAW\Entorno de desarrollo\2ºTrimestre\Proyecto_Depuracion\get-started-debugging\get-started-debugging\obj\Debug\netcoreapp3.1\get-started-debugging.genruntimeconfig.cache
