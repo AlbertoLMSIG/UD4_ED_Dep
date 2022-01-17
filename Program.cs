@@ -3,9 +3,11 @@ class ArrayExample
 {
     static void Main()
     {
+        //defenor de arrays
         char[] letters = { 'f', 'r', 'e', 'd', ' ', 's', 'm', 'i', 't', 'h' };
         string name = "";
         int[] a = new int[10];
+        //Bucle for para que funcione el programa
         for (int i = 0; i < letters.Length; i++)
         {
             name += letters[i];
